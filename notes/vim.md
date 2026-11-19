@@ -1,5 +1,22 @@
 # Vim
 
+## Go to
+| Key | action |
+|-----|------|
+| `i` | Insert before selection |
+| `a` | Insert after selection |
+| `$` | Go to end of line |
+| `0` | Go to start line |
+| `cw ` | Delete word go into insert mode |
+| `w` | Jump to next word |
+| `u` | Undo |
+| `Space+e` | Open file viewer| 
+| `D` | Delete after cursor | 
+| `dd` | Delete line | 
+| `dw` | Delete word |
+| `V` | Select line |
+
+
 ## Modes
 
 | Key | Mode |
